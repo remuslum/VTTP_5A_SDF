@@ -2,8 +2,9 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-import src.CSVManager;
 import src.GetStatistics;
+
+
 
 public class Main {
     public static void main(String[] args) throws IOException {
