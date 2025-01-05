@@ -1,0 +1,2 @@
+Product :id=7, name=iPhone 14 Pro, category=Mobile, description=iPhone, price=1800.0, dateCreated=2023-09-20
+Product :id=6, name=iPhone 16 Pro, category=Mobile, description=iPhone, price=2000.0, dateCreated=2023-08-09
